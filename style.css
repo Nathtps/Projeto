@@ -7,14 +7,12 @@ body {
 	background-size: cover;
 	color: white;
 }
-h2 {
+h2, p {
 	color: #FFAAAA;
 	text-align: center;
 	border: 5px solid #E696B6;
 }
-p {
-	color: #D46A6A;
-}
+
 li {
 	list-style: none;
 	display: inline-block;
