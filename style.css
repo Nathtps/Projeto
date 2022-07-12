@@ -1,0 +1,21 @@
+/*Selector {
+	Property: value;
+}*/ 
+
+body {
+	background-image: url(C:/Users/natal/Downloads/back.jpeg); 
+	background-size: cover;
+	color: white;
+}
+h2 {
+	color: #FFAAAA;
+	text-align: center;
+	border: 5px solid;
+}
+p {
+	color: red;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
