@@ -3,17 +3,17 @@
 }*/ 
 
 body {
-	background-image: url(C:/Users/natal/Downloads/back.jpeg); 
+	background-image: url(C:/Users/natal/Downloads/agoravai.jpeg); 
 	background-size: cover;
 	color: white;
 }
 h2 {
 	color: #FFAAAA;
 	text-align: center;
-	border: 5px solid;
+	border: 5px solid #E696B6;
 }
 p {
-	color: red;
+	color: #D46A6A;
 }
 li {
 	list-style: none;
