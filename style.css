@@ -7,13 +7,26 @@ body {
 	background-size: cover;
 	color: white;
 }
-h2, p {
+h2:hover , p {
 	color: #FFAAAA;
 	text-align: center;
-	border: 5px solid #E696B6;
+	border: 5px solid #da7da2;
+	cursor: pointer;
 }
 
 li {
 	list-style: none;
 	display: inline-block;
+}
+
+.webtext {
+	border: 5px solid #da7da2;
+}
+
+.active {
+	color: white;
+}
+
+#div1 {
+	background-color: rgba(252, 194, 194, 0.4);
 }
