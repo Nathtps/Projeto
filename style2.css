@@ -1,0 +1,44 @@
+html, body{
+    height: 100%;
+}
+
+h1{
+    background-color: black;
+    display: inline 100%;
+    box-shadow: 5px 1px 18px #888888
+}
+
+.banners{
+    position: relative;
+}
+
+#img1{
+    margin-left: 30px;
+}
+
+#img2{
+    position: absolute;
+    right: 30px;
+}
+
+nav{
+    height: 100%;
+    background-color: #d1d1d1;
+    width: 298px;
+}
+
+li{
+    list-style-type: none;
+    font-family: Helvetica;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+    background-color: #c0c0c0;
+    padding: 25px 35px;
+    border-bottom: 1px solid #666666;
+}
+
+li:hover{
+    background-color: #ffc700;
+}
